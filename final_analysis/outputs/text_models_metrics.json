@@ -1,0 +1,15 @@
+{
+  "label_threshold_used": 4.0,
+  "text_lr": {
+    "model": "text_lr",
+    "accuracy": 0.6859903381642513,
+    "f1": 0.48,
+    "roc_auc": 0.7108561967833491
+  },
+  "text_svc": {
+    "model": "text_svc",
+    "accuracy": 0.7004830917874396,
+    "f1": 0.20512820512820512,
+    "roc_auc": 0.6627838221381268
+  }
+}
